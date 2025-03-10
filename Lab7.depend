@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1741578475 source:d:\programs\graphic\lab7\camera.c
+	<windows.h>
+	<gl/gl.h>
+	<stdbool.h>
+	<math.h>
+	"camera.h"
+
+1741578495 d:\programs\graphic\lab7\camera.h
+
+1741578334 source:d:\programs\graphic\lab7\main.c
+	<windows.h>
+	<gl/gl.h>
+	"camera.h"
+	<math.h>
+
